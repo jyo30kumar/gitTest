@@ -1,4 +1,6 @@
 Hi there,
 This is message 6 text file.
 make some changes in text 6 file while in testing02 branch.
+make some changes in text 6 file while in testing02 branch.
+
 make some another changes in text 6 file while in testing02 branch.
