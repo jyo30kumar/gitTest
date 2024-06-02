@@ -1,0 +1,2 @@
+hi there,
+This is msg5 text file.
