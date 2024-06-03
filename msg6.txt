@@ -3,6 +3,10 @@ This is message 6 text file.
 make some changes in text 6 file while in testing02 branch.
 make some another changes in text 6 file while in testing02 branch.
 
+<<<<<<< HEAD
 make some changes in text 6 file while in main branch.
 
 before merge message in main 
+=======
+before merge message in testing 02 branch
+>>>>>>> testing02
