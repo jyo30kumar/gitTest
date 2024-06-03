@@ -7,3 +7,4 @@ make some changes in text 6 file while in main branch.
 
 before merge message in main 
 before merge message in testing 02 branch
+before merge message in main 
