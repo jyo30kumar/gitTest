@@ -5,4 +5,4 @@ make some changes in text 6 file while in testing02 branch.
 
 make some another changes in text 6 file while in testing02 branch.
 
-bye
+before merge message in testing 02 branch
