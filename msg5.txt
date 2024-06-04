@@ -6,3 +6,4 @@ another changes.
 
 make changes before merge in main branch.
 
+add something before merge while in testing02 branch
